@@ -1,0 +1,46 @@
+.bg-new {
+    background-color: #021c1e;
+}
+
+.bg-unique{
+    background-color: #004445;
+}
+
+nav {
+    background-color: #6fb98f;
+}
+
+.btn {
+    background-color: #2c7873;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+p{
+   font-family: 'Montserrat', sans-serif; 
+}
+
+.masthead {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 35rem;
+    padding: 15rem 0;
+    background: linear-gradient(to bottom,rgba(255,255,255,.1) 0,rgba(2,28,30,.9) 75%,#021c1e 100%), url(../images/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.text-unique{
+    color: #004445;
+    font-size: 36px;
+}
